@@ -43,8 +43,6 @@ Please delete options that are not relevant.
 
 ## Design
 
-[Add link to design](https://example.com)
-
 🚨 - `If your task has a design on figma, put a screenshot here`
 
 ![Image example 01](https://picsum.photos/400/200)
