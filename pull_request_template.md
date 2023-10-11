@@ -19,8 +19,6 @@ Please delete options that are not relevant.
 
 ## Checklist
 
-- [x] This is an example checked
-
 - [ ] PRODUCT
 
   - [ ] Put PR link on ticket
